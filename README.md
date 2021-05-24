@@ -1,2 +1,8 @@
 # revertString
 Reverting strings in different approach
+
+
+3252500 result with stream: zyxwutsrpuonmlkjihgfedcbaZYXWUTSRPUONMLKJIHGFEDCBA
+4971600 result with loop: zyxwutsrpuonmlkjihgfedcbaZYXWUTSRPUONMLKJIHGFEDCBA
+3623700 result with recursion: zyxwutsrpuonmlkjihgfedcbaZYXWUTSRPUONMLKJIHGFEDCBA
+60800 result with StringBuilder: zyxwutsrpuonmlkjihgfedcbaZYXWUTSRPUONMLKJIHGFEDCBA
